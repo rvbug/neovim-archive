@@ -29,6 +29,7 @@ There are many IDEs like VSCode, Pycharm which just works out of the box then wh
 - Enhance your productivity by providing features like split windows, quick search & replace and distraction-free mode too
 
 
+
 # My Setup
 
 This setup supports the following :
